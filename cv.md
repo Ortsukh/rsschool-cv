@@ -1,18 +1,18 @@
+# My CV
 
-# My CV  
+1. **First Name, Last Name:** _Evgeniy Ortsiukh_
+2. **Contact Info:**  
+   _Phone Number: +375295034229_  
+   _E-mail: e.ortsukh@gmail.com _
+3. **Summary:**  
+   _I am purposeful, responsible, disciplined and organized.  
+    I want to successfully complete the course of JS Development and get into the Epam IT company._
 
-1. __First Name, Last Name:__ *Evgeniy Ortsiukh*  
-2. __Contact Info:__  
-  *Phone Number: +375295034229*  
-  *E-mail: e.ortsukh@gmail.com*  
-3. __Summary:__  
-  *I am purposeful, responsible, disciplined and organized.  
-   I want to successfully complete the course of JS Development and get into the Epam IT company.*  
-  
-4. __Skills:__  
-  *JavaScript, HTML, CSS, Git, React, Redux*
+4. **Skills:**  
+   _JavaScript, HTML, CSS, Git, React, Redux_
 
-5. __Code examples:__  
+5. **Code examples:**
+
 ```javascript
   var options = {
   enableHighAccuracy: true,
@@ -37,17 +37,19 @@ navigator.geolocation.getCurrentPosition(success, error, options); return result
 }
 ```
 
-6. __Experience:__  
-  *IT-school “Myfreedom”. Frontend-developer. JavaScript*
+6. **Experience:**  
+   _IT-school “Myfreedom”. Frontend-developer. JavaScript_
 
-  *It school "OR Media" Frontend-developer. React.js (Redux)*
-  
-7. __Education:__  
-  *2009-2014
-Higher Education
-Radio Engineering
-Belarusian State University of Informatics and Radioelectronics (BSUIR)
-*
-8. __English:__  
-  *My English level is A2.*
-=======
+   _It school "OR Media" Frontend-developer. React.js (Redux)_
+
+7. **Education:**  
+    \*2009-2014
+   Higher Education
+   Radio Engineering
+   Belarusian State University of Informatics and Radioelectronics (BSUIR)
+
+-
+
+8. **English:**  
+    _My English level is A2._
+   =======
