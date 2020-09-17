@@ -3,7 +3,7 @@
 1. **First Name, Last Name:** _Evgeniy Ortsiukh_
 2. **Contact Info:**  
    _Phone Number: +375295034229_  
-   _E-mail: e.ortsukh@gmail.com _
+   _E-mail: e.ortsukh@gmail.com_
 3. **Summary:**  
    _I am purposeful, responsible, disciplined and organized.  
     I want to successfully complete the course of JS Development and get into the Epam IT company._
